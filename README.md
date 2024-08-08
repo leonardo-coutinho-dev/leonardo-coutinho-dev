@@ -48,10 +48,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github"  alt="github" width="30" height="30"/>&nbsp;
 </div>
 
-- 📫 How to reach me: <br />
+<br />
+<br />
+
+- 📫 How to reach me: <br /> <br />
       - +34 672 98 13 73 <br />
       - web.dev.trabalho@gmail.com <br />
-      - <a target="_blank" href="https://www.linkedin.com/in/leonardo-coutinho-programador/">LinkedIn</a>
+      - [LinkedIn](https://www.linkedin.com/in/leonardo-coutinho-programador/)
 <!--
 **leonardo-coutinho-dev/leonardo-coutinho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
