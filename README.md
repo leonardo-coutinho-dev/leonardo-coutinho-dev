@@ -1,4 +1,12 @@
-<div style="background-color: #f0f0f0; padding: 10px;">
+<table>
+  <tr>
+    <td style="background-color: #f0f0f0; padding: 10px;">
+      <strong>:hammer_and_wrench: Languages and Tools :</strong><br>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>
+      <!-- Your other icons here -->
+    </td>
+  </tr>
+</table>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -57,8 +65,6 @@
       - +34 672 98 13 73 <br />
       - web.dev.trabalho@gmail.com <br />
       - [LinkedIn](https://www.linkedin.com/in/leonardo-coutinho-programador/)
-
-</div>
 
 <!--
 **leonardo-coutinho-dev/leonardo-coutinho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
