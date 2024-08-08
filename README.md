@@ -11,8 +11,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="30" height="30"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" style="background-color: #ebebeb;" title="Nextjs" alt="Nextjs" width="30" height="30"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="30" height="30"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" style="background-color: #ebebeb;" title="Nextjs" alt="Nextjs" width="30" height="30"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="30" height="30"/>&nbsp;
       </td>
     </tr>
   </table>
@@ -78,7 +78,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm"  alt="npm" width="30" height="30"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="yarn"  alt="yarn" width="30" height="30"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="30" height="30"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github"  alt="github" width="30" height="30"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github"  alt="github" width="30" height="30"/>&nbsp;
       </td>
     </tr>
   </table>
