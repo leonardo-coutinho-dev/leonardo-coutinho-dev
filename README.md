@@ -78,7 +78,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm"  alt="npm" width="30" height="30"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="yarn"  alt="yarn" width="30" height="30"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="30" height="30"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github"  alt="github" width="30" height="30"/>&nbsp;
       </td>
     </tr>
   </table>
