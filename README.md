@@ -92,10 +92,11 @@
       - 📫 How to reach me: <br /> <br />
         - +34 672 98 13 73 <br />
         - web.dev.trabalho@gmail.com <br />
-        - [LinkedIn](https://www.linkedin.com/in/leonardo-coutinho-programador/)
     </td>
   </tr>
-</table>  
+</table> 
+
+[LinkedIn](https://www.linkedin.com/in/leonardo-coutinho-programador/)
 
 <!--
 **leonardo-coutinho-dev/leonardo-coutinho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
