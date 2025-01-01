@@ -96,8 +96,6 @@
   </tr>
 </table> 
 
-[LinkedIn](https://www.linkedin.com/in/leonardo-coutinho-programador/)
-
 <!--
 **leonardo-coutinho-dev/leonardo-coutinho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
