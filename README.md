@@ -1,6 +1,6 @@
 ### :hammer_and_wrench: Languages and Tools :
 
-### full stack we developer
+### full stack web developer
 
 #### front :
 
