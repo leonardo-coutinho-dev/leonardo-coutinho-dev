@@ -1,1 +1,1 @@
-I gave up trying to find a job as a developer.
+-
