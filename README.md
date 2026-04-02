@@ -1,1 +1,1 @@
--
+I do a lot of things that has absolutely no value and it will get me nowhere. I have no patience to keep looking for a job as a developer. If you wanna reach me with a offer, do it, but I will not participate in humiliating selection processes.
